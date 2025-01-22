@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on conducting a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
+![Screenshot 2025-01-22 100556](https://github.com/user-attachments/assets/28877c5a-3230-43ec-b833-549d874edef0)
+
+
 ## Business Requirement
 To analyze Blinkit's:
 - Sales performance
